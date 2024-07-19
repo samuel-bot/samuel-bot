@@ -1,5 +1,5 @@
 # 💫 About Me:
-SOU UM JOVEM ALTAMENTE MOTIVADO E DEDICADO, COM UMA<br>SÓLIDA FORMAÇÃO ACADÊMICA E EXPERIÊNCIA PRÁTICA EM<br>SISTEMAS DE INFORMAÇÕES. POSSUO UM HISTÓRICO COMPROVADO<br>DE ALCANÇAR E SUPERAR METAS, BEM COMO DE COLABORAR<br>EFETIVAMENTE EM EQUIPES MULTIDISCIPLINARES.<br><br>INTERESSES E HOBBIES<br><br>Gosto de animes, jogar jogos Gosto de aprender novas linguagens<br>e FrameWorks, tenho interesse em aprender React e Tailwind.<br>Gosto muito da parte de Front-End, mas no futuro quero ser<br>Programador Full-Stack. Um dos meu Hobbies e assistir E-Sports.<br>
+SOU UM JOVEM ALTAMENTE MOTIVADO E DEDICADO, COM UMA<br>SÓLIDA FORMAÇÃO ACADÊMICA E EXPERIÊNCIA PRÁTICA EM<br>SISTEMAS DE INFORMAÇÕES. POSSUO UM HISTÓRICO COMPROVADO<br>DE ALCANÇAR E SUPERAR METAS, BEM COMO DE COLABORAR<br>EFETIVAMENTE EM EQUIPES MULTIDISCIPLINARES.<br><br>INTERESSES E HOBBIES<br><br>Gosto de aprender novas linguagens<br>e FrameWorks, tenho interesse em aprender React e Tailwind.<br>Gosto muito da parte de Front-End, mas no futuro quero ser<br>Programador Full-Stack. Um dos meu Hobbies e assistir E-Sports.<br>
 
 
 ## 🌐 Socials:
